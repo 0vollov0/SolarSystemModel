@@ -2,7 +2,7 @@
 
 ## 실행 파일
 
-<https://github.com/psk876/OneCard-MultiPlayer-/blob/master/CardGameLand/bin/Debug/CardGameLand.exe>
+<https://github.com/psk876/SolarSystemModel/raw/master/SolarSystemModel.exe>
 
 ## 영상
 

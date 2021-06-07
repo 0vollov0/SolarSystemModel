@@ -4,7 +4,7 @@ C++ MFC 를 이용한 태양계 시뮬레이터 입니다.
 
 ## 실행 파일
 
-<https://github.com/psk876/SolarSystemModel/raw/master/SolarSystemModel.exe>
+<del>[Download Link](https://github.com/psk876/SolarSystemModel/raw/master/SolarSystemModel.exe)</del>
 
 ## 영상
 

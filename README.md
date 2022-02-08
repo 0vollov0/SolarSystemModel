@@ -6,10 +6,6 @@ C++ MFC 를 이용한 태양계 시뮬레이터 입니다.
 
 <del>[Download Link](https://github.com/psk876/SolarSystemModel/raw/master/SolarSystemModel.exe)</del>
 
-## 영상
-
-[![video](https://i.vimeocdn.com/video/776961201_640x360.jpg)](https://vimeo.com/331539334)
-
 # 설명
 
 태양계를 본떠 만든 프로그램입니다.
